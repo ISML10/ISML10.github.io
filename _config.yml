@@ -7,17 +7,23 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Ismael F. Silva Castioni Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
+name: Ismael Fernando Silva Castioni
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  #Write an awesome intro and discuss your highlights and qualification. You can edit this
+  #line in _config.yml. It will appear in your document head meta (for
+  #Google search results) and in your feed.xml site description.
+  I am a motivated Mechatronics Bachelor student at Fachhochschule Kiel, 
+  specializing in automation technology with strong skills in CAD, industrial software, and control engineering. 
+  My academic background is complemented by practical experience in technical projects, photovoltaic installation, 
+  and customer-oriented roles, where I developed adaptability, problem-solving abilities, and a high level of responsibility.
+  With fluency in six languages, I can communicate effectively in diverse, international environments.
+  I am passionate about applying my technical knowledge to real-world challenges and contributing to innovative engineering solutions.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
