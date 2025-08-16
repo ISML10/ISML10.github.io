@@ -65,12 +65,14 @@ skills:
     - WinSPS-S7
     - PLC Programming
   - category: Programming
+    tools:
     - C
     - C++
     - C#
     - Arduino IDE
     - Embedded Systems Basics
   - category: Electronics / Hardware
+    tools:
     - Sensorik
     - Elektrokonstruktion
     - Digitale & analoge Elektronik
