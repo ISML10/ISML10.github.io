@@ -8,5 +8,5 @@ skills Used:
 -Mechanical Systems & Gearing
 -Reverse Engineering Techniques
 -Technical Documentation
-main-image: /project.webp 
+main-image: _projects/Reverse Engineering Akkuschrauber/Akkuschrauber1.jpg
 ---
