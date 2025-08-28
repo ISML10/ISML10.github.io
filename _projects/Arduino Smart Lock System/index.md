@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arduino Smart Lock System
-description: Designed and built an energy-efficient smart lock prototype for cabinets, combining RFID authentication and keypad access. The system features real-time battery monitoring, EEPROM-based user management, and a 3D-printed housing. A C# desktop interface allows remote access and UID management. Completed in 13 weeks with a total cost of €62.75.
+description: Designed and built an energy-efficient smart lock prototype for cabinets, combining RFID authentication and keypad access. The system features real-time battery monitoring, EEPROM-based user management, and a 3D-printed housing. A C# desktop interface allows remote access and UID management. 
 skills: 
 - Embedded Systems (Arduino UNO R3)
 - C/C++ (Arduino IDE)
