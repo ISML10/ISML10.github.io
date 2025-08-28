@@ -10,5 +10,5 @@ skills:
 - 3D Modeling & Printing (SolidWorks, PrusaSlicer)
 - Electronics Prototyping (servo, LCD, voltage sensor)
 - Project Planning & Risk Management
-main-image: /gerät.jpg 
+main-image: /gerät.png 
 ---
