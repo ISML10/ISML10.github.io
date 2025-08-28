@@ -11,3 +11,4 @@ skills:
 - Team Collaboration & Project Documentation
 main-image: /2d-plotter.jpg
 ---
+{% include youtube-video.html id="WSOR8NF2r9o&t" autoplay= "false"%}
