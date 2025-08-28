@@ -24,12 +24,12 @@ description: >- # dont remove this line. this will ignore all new lines until th
   I am passionate about applying my technical knowledge to real-world challenges and contributing to innovative engineering solutions.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/profilbild.jpg
+profile_image: /assets/images/profile-image/profilbild.jpg
 
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url:  .assets/resume/Newlebenslauf_16.08.2025.pdf
+resume-url: https://drive.google.com/drive/folders/1Rh0jITOBSPsh-bvRFBuahcaCzpyDivD7?usp=sharing #/assets/resume/Newlebenslauf_16.08.2025.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
