@@ -8,5 +8,5 @@ skills:
 - Mechanical Systems & Gearing
 - Reverse Engineering Techniques
 - Technical Documentation
-main-image: /Akkuschrauber1.jpg /Getriebe.jpg
+main-image: /Akkuschrauber1.jpg 
 ---
