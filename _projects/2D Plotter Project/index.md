@@ -9,5 +9,5 @@ skills:
 - G-code Processing & Motion Control
 - CAD & Prototyping (SolidWorks, 3D-printed parts)
 - Team Collaboration & Project Documentation
-main-image: /zeichnung.jpg 
+main-image: /2d-plotter.jpg
 ---
