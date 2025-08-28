@@ -29,13 +29,13 @@ profile_image: ./assets/images/profile-image/profilbild.jpg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url:  .assets/resume/Newlebenslauf_16.08.2025
+resume-url:  .assets/resume/Newlebenslauf_16.08.2025.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin:   # https://www.linkedin.com/in/{your url slug} 
+  linkedin:   # https://www.linkedin.com/in/ismael-fernando-silva-castioni-b97b90379/
   github:  # https://github.com/{your url slug} 
   stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
@@ -91,7 +91,7 @@ skills:
     - Konfliktmanagement
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key: https://formspree.io/f/{xrblvbyd}
+formspree-key: https://formspree.io/f/xrblvbyd/
 
 
 
